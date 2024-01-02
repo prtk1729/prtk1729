@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Researcher @Machine Learning Lab, IIITH <br>👯 I had earlier collaborated with University of Leicester, UK<br>🤝 I have worked in Qualcomm as a Backend Developer<br>🌱 I’m currently working on my Thesis on Active Learning in Computer Vision, particularly Semantic Segmentation Problems <br>💬 Ask me about Computer Vision, Deep-Learning. 
+🔭 I’m currently a Researcher @Machine Learning Lab, IIITH <br>👯 I had earlier collaborated with University of Leicester, UK<br>🤝 I have worked in Qualcomm as a Backend Developer<br>🌱 My Thesis was on Active Learning in Computer Vision, particularly Semantic Segmentation Problems <br>💬 Ask me about Computer Vision, Deep-Learning. 
 
 
 ## 🌐 Socials:
