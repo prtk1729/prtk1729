@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently a Researcher @Machine Learning Lab, IIITH <br>👯 I had earlier collaborated with University of Leicester, UK<br>🤝 I have worked in Qualcomm as a Backend Developer<br>🌱 My Thesis was on application of Domain Adaptation and Active Learning in Computer Vision spanning from Medical Imaging( Opthalamology ) to Agriculture( Seed Quality Testing ) <br>.💬 My interests and college projects were on Sensor Fusion, Compression and Quantisation Techniques, Knowledge Distillation.
-🔭 Semantic Segmentation is a key area, I have invested an ample amount of time building projects on like Comparing various SOTA models like SegFormer, DeepLab_v3 and UNET on BDD_100k dataset. 
+🔭 I’m currently a Researcher @Machine Learning Lab, IIITH <br>👯 I had earlier collaborated with University of Leicester, UK<br>🤝 I have worked in Qualcomm as a Backend Developer<br>🌱 My Thesis was on application of Domain Adaptation and Active Learning in Computer Vision spanning from Medical Imaging( Opthalamology ) to Agriculture( Seed Quality Testing ) <br>.💬 My interests and college projects were on Sensor Fusion, Compression and Quantisation Techniques, Knowledge Distillation. <br>
+🔭 Semantic Segmentation is a key area, I have invested an ample amount of time building projects on like Comparing various SOTA models like SegFormer, DeepLab_v3 and UNET on BDD_100k dataset. <br>
 🔭 Have interned at Nykaa, as a data scientist working on a multi-modal system and improving their recommendation pipeline for Shop-The-Look applications leveraging style aspects of Nykaa's fashion catalog using CLIP and SegFormer<br>.
 Ask me about Computer Vision, Deep-Learning. 
 
